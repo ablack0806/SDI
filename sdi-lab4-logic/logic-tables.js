@@ -11,9 +11,9 @@ var r;
 
 p = confirm("First value:  Click OK for true or Cancel for false.");
 q = confirm("Second value:  Click OK for true or Cancel for false.");
-r = confirm("Third value: Click OK for true or Cancel for dalse");
-if (p &&(q||r)) {
-    console.log("With " + p + " and " + q + r + ", the outcome is TRUE.");
+r = confirm("Third value: Click OK for true or Cancel for false");
+if (p || (q || r)) {
+    console.log("With " + p + " and " + q + " and " + r + ", the outcome is TRUE.");
 } else {
     console.log("With " + p + " and " + q + r + ", the outcome is FALSE.");
 };
