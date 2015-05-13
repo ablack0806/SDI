@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="809683e1-bf12-4b8a-9de9-eaba48822084" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movies/MovieTicketPrice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movies/js.js" />
-      <change type="DELETED" beforePath="C:\Users\Thundaigus436\Desktop\SDI\sdi-lab4-logic\Truth_tables.docx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab4-logic/logic-tables.js" afterPath="$PROJECT_DIR$/../sdi-lab4-logic/logic-tables.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab4-logic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab4-logic/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="809683e1-bf12-4b8a-9de9-eaba48822084" name="Default" comment="" />
     <ignored path="DayFour.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
