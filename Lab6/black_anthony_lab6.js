@@ -18,7 +18,11 @@ function listOfSuperHeroes() {
 
         console.log(listOfSuperHeroes[i] + " is NOT so secretly " + secretIdentities [i]);
 
-        
+
+    }
+    listOfSuperHeroes.push("Tony Black", "Jackie Chan", "Darth Vader");
+    secretIdentities.push("A black guy", "An archeologist", "Some evil dude");
+   
 }
 listOfSuperHeroes();
 
