@@ -18,6 +18,7 @@ function addition (add1, add2){
     return sOO;
 }
 
+
 if(operation === "+"){
     returnCatch = addition(num1, num2);
     console.log("The number is " + returnCatch + ".");
@@ -39,7 +40,7 @@ if(operation === "-"){
     console.log("The number is " + returnCatch + ".")
 }
 
-function multiplication(num1, num2){
+function multiplication (num1, num2){
 if(operation === "*"){
     returnCatch = multiplication(num1 * num2);
 
@@ -52,3 +53,11 @@ if(operation === "*"){
     returnCatch = multiply (num1, num2);
     console.log("The number is " + returnCatch + ".")
 }
+
+    function division(div1, div2) {
+
+        //divide
+
+        sOO = (div1 / div2);
+        return sOO
+    }
