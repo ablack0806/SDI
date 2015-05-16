@@ -22,7 +22,10 @@ function listOfSuperHeroes() {
     }
     listOfSuperHeroes.push("Tony Black", "Jackie Chan", "Darth Vader");
     secretIdentities.push("A black guy", "An archeologist", "Some evil dude");
-   
+    for (var i = 0; i < listOfSuperHeroes.length; i++){
+        console.log(listOfSuperHeroes[i] + " is NOT so secretly " + secretIdentities [i]);
+
+    }
 }
 listOfSuperHeroes();
 
