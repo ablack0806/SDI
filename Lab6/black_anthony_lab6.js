@@ -14,7 +14,12 @@ function listOfSuperHeroes() {
 
     var secretIdentities = ["Tony Starks", "Peter Parker", "Bruce Banner", "Hancock"];
 
+    for (var i = 0; i < listOfSuperHeroes.length; i++) {
 
+        console.log(listOfSuperHeroes[i] + " is NOT so secretly " + secretIdentities [i]);
+
+        
+}
 listOfSuperHeroes();
 
 
