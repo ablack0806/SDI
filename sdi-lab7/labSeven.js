@@ -10,4 +10,13 @@ var numArray3 = [2, 3, 4, 1, 10, 27, 32, 51, 6, 100, 8, 42];
 
 //function
 
-function
+function bubbleSort(numericalOrder){
+
+    for (i=0; i < numArray1; i++){
+
+        if (numArray1[i] > numArray1 [i++]){
+            
+        }
+    }
+}
+console.log (numArray1);
