@@ -22,7 +22,7 @@ function bubbleSort(num1)
                 num1[i+1]=temp;
                 swapped=true;
             }
-        }
+        }return num1
     } while(swapped);
 }
 
@@ -41,7 +41,7 @@ function bubbleSort(num2)
                 num2[i+1]=temp;
                 swapped=true;
             }
-        }
+        }return num2
     }while(swapped);
 }
 
@@ -62,9 +62,9 @@ function bubbleSort(num3)
                 num3[i+1]=temp;
                 swapped=true;
             }
-        }
+        }return num3
     }while(swapped);
 }
 
-bubbleSort(num3)
-console.log(num3)
+bubbleSort(num3);
+console.log(num3);
