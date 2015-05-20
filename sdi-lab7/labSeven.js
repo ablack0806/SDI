@@ -28,3 +28,43 @@ function bubbleSort(num1)
 
 bubbleSort(num1);
 console.log(num1);
+
+function bubbleSort(num2)
+{
+ var swapped;
+    do{
+        swapped=false;
+        for(var i=0; i<num2.length-1; i++){
+            if(num2[i]>num2[i+1]){
+                var temp=num2[i];
+                num2[i]=num2[i+1]
+                num2[i+1]=temp;
+                swapped=true;
+            }
+        }
+    }while(swapped);
+}
+
+bubbleSort(num2)
+console.log(num2)
+
+
+
+function bubbleSort(num3)
+{
+    var swapped;
+    do{
+        swapped=false;
+        for(var i=0; i<num3.length-1; i++){
+            if(num3[i]>num3[i+1]){
+                var temp=num3[i];
+                num3[i]=num3[i+1]
+                num3[i+1]=temp;
+                swapped=true;
+            }
+        }
+    }while(swapped);
+}
+
+bubbleSort(num3)
+console.log(num3)
