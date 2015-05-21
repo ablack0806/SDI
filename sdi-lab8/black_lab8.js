@@ -43,14 +43,16 @@ function sentenceSplicer(fixMe,seperateMe,seperateMeAnew){
     var newVariable = "";
 
     newString = fixMe.split(seperateMe)
-    for(var i = o; i< newString.length; i++){
+    for(var i = 0; i< newString.length; i++){
         if(i===(newString.length -1)){
             newVariable = newVariable + newString[i];
         }else{
-            newVariable = newVariable + newString[i] + seperateMeAnew
+            newVariable = newVariable + newString[i] + seperateMeAnew;
         }
     }
 
-    return newVariable
+    return newVariable;
 }
 
+returnString = sentenceSplicer(string,string2,string3)
+console.log ("Captain the list of potential Superheroes include: " + returnString + "but we arent too sure about Tony")
