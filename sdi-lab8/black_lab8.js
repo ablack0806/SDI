@@ -4,7 +4,18 @@ var email1 = "";
 
 function checkEmail(findMe){
 
-    if ((findMe.indexOf("@") <0 || email1+ "@" >1 || findMe.indexOf(".") <0) || findMe.indexOf(" ") >=0 ){
+    var checkMe = findMe.indexOf("@");
+    var checkMe2 = findMe.lastIndexOf("@");
+    var atSymbol;
+
+    if (checkMe >= 0 && checkMe2=== checkMe) {
+    atSymbol = true;
+}
+    else {
+    atSymbol = false;
+    }
+
+    if (atSymbol===false || findMe.indexOf(".") <0 || findMe.indexOf(" ") >=0 ){
         valid = "  not valid";
     }else{
         valid = " for great success.";
