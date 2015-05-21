@@ -32,14 +32,25 @@
 
 
 
-var string = "What if-Tony is secretly-Batman?"
-var string2 = "-"
-var string3 = ","
-var returnString
+var string = "Tony,Vergil,Michael,Batman?";
+var string2 = ",";
+var string3 = ",";
+var returnString;
 
-function sentenceSplicer(fixMe){
+function sentenceSplicer(fixMe,seperateMe,seperateMeAnew){
 
     var newString;
     var newVariable = "";
+
+    newString = fixMe.split(seperateMe)
+    for(var i = o; i< newString.length; i++){
+        if(i===(newString.length -1)){
+            newVariable = newVariable + newString[i];
+        }else{
+            newVariable = newVariable + newString[i] + seperateMeAnew
+        }
+    }
+
+    return newVariable
 }
 
