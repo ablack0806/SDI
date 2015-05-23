@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9913dc2b-fca5-45d0-b9fa-7591c4df1dfe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dayNine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dayNine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab8/black_lab8.js" afterPath="$PROJECT_DIR$/../sdi-lab8/black_lab8.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab8/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../sdi-lab8/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab7/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab8/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733/sdi-lab9/rename-me.js" afterPath="$PROJECT_DIR$/../sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733/sdi-lab9/rename-me.js" />
     </list>
     <ignored path="DayNine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +36,8 @@
       <file leaf-file-name="dayNine.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dayNine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7841845">
-              <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="80" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.22405271">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -182,7 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24887556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -241,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dayNine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7841845">
-          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="80" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.22405271">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

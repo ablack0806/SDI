@@ -1,4 +1,5 @@
 //alert("JavaScript works!");
+//Problem 1
 
 //var toChange = (8.906489);
 //var toChange2 = (7.915643);
@@ -16,15 +17,29 @@
 
 
 //problem 2
+//
+//function mathMethod(argPrompt) {
+//
+//    if (isNaN(argPrompt)) {
+//        argPrompt = prompt("Enter a real number:")
+//    } else {
+//        var buildingsDestroyed = parseInt(argPrompt);
+//    }
+//    console.log(buildingsDestroyed);
+//}
+//var myPrompt = prompt("How many buildings did Hulk Smash?" , "CHOAS")
+//mathMethod(myPrompt);
 
-function mathMethod(argPrompt) {
+//problem 3
 
-    if (isNaN(argPrompt)) {
-        argPrompt = prompt("Enter a real number:")
-    } else {
-        var buildingsDestroyed = parseInt(argPrompt);
-    }
-    console.log(buildingsDestroyed);
-}
-var myPrompt = prompt("How many buildings did Hulk Smash?" , "CHOAS")
-mathMethod(myPrompt);
+
+
+function goodDates(){
+
+    var myDate = "8/06/1990";
+
+    console.log(myDate)
+
+    var newDate = new Date(myDate)
+
+    console.log(newDate)
