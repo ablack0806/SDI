@@ -32,14 +32,23 @@
 
 //problem 3
 
+alert ("I work")
+var myDate1 = "8/06/1990";
+var newDate2 = "3/09/1971";
+var date;
+function goodDates(myDate,newDate) {
 
 
-function goodDates(){
+    var newDate2 = new Date(myDate);
+    var newDate3 = new Date (newDate);
 
-    var myDate = "8/06/1990";
 
-    console.log(myDate)
+    dateDiff = newDate2 - newDate3;
+    dateDiff = Math.abs(dateDiff /1000/60/24);
 
-    var newDate = new Date(myDate)
+    console.log(dateDiff);
+    return dateDiff
+}
+date = goodDates(myDate1,newDate2)
 
-    console.log(newDate)
+console.log(date)
