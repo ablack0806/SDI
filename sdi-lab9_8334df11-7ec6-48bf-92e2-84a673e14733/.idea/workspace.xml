@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07068895-7fc1-4293-adee-dbfa70cbe2fd" name="Default" comment="" />
+    <list default="true" id="07068895-7fc1-4293-adee-dbfa70cbe2fd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdi-lab9/rename-me.js" afterPath="$PROJECT_DIR$/sdi-lab9/rename-me.js" />
+    </list>
     <ignored path="sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="rename-me.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sdi-lab9/rename-me.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3443163">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.66392094">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -219,8 +221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sdi-lab9/rename-me.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3443163">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.66392094">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

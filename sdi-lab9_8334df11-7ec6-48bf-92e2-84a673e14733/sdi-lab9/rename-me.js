@@ -41,11 +41,14 @@ function goodDates(myDate,newDate) {
 
     var newDate2 = new Date(myDate);
     var newDate3 = new Date (newDate);
-
+    var newVar = 1;
+    var prompt1 = prompt("Press 1 for Hours, or Press 2 for Days");
 
     dateDiff = newDate2 - newDate3;
-    dateDiff = Math.abs(dateDiff /1000/60/24);
-
+   if(prompt1==2){(dateDiff = Math.abs(dateDiff /1000/60/60/24))
+   }
+    else if(prompt1==1) {dateDiff = Math.abs(dateDiff /1000/60/60)
+   }
     console.log(dateDiff);
     return dateDiff
 }
