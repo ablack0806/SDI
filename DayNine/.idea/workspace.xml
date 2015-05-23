@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9913dc2b-fca5-45d0-b9fa-7591c4df1dfe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733/sdi-lab9/rename-me.js" afterPath="$PROJECT_DIR$/../sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733/sdi-lab9/rename-me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../sdi-lab9_8334df11-7ec6-48bf-92e2-84a673e14733/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9913dc2b-fca5-45d0-b9fa-7591c4df1dfe" name="Default" comment="" />
     <ignored path="DayNine.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
